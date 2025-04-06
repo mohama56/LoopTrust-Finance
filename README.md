@@ -1,2 +1,2 @@
 # LoopTrust-Finance
-LoopTrust Finance: prioritizing low fees, strong security, and building user trust for decentralized finance.
+LoopTrust Finance: Secure and affordable DeFi contract, designed to build user trust through low transaction costs and verified security measures.
