@@ -108,7 +108,7 @@ const ServiceCard: React.FC<ServiceProps> = ({
             }
 
             // Simulate blockchain transaction
-            await new Promise(resolve => setTimeout(resolve, The));
+            await new Promise(resolve => setTimeout(resolve, 2000));
 
             /* REAL CONTRACT CALL WOULD LOOK LIKE THIS:
             const contract = getContract({
