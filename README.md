@@ -1,4 +1,4 @@
-# LoopTrust Finance 🟣
+# LoopTrust Finance 
 
 > Prioritizing low fees, strong security, and building user trust for decentralized finance.
 
@@ -6,12 +6,12 @@ LoopTrust Finance is a smart contract system designed to deliver **cost-effectiv
 
 ---
 
-## ✨ Features
+## Features
 
 - **Dynamic Fee System**
-  - ✅ Orders below $100 are charged a flat **$1 fee**.
-  - ✅ Orders above $100 are charged a **2% transaction fee**.
-  - ✅ Real-time ETH/USD price conversion using **Chainlink Price Feed**.
+  - Orders below $100 are charged a flat **$1 fee**.
+  - Orders above $100 are charged a **2% transaction fee**.
+  - Real-time ETH/USD price conversion using **Chainlink Price Feed**.
   
 
 - **Chainlink Oracle Integration**
@@ -24,20 +24,20 @@ LoopTrust Finance is a smart contract system designed to deliver **cost-effectiv
 
 - **Multi-Contract Deployment**
   - Deployed across 5 independent contract addresses for scalability and redundancy.
-  - ✅ All verified and bytecode matched on Etherscan.
+  - All verified and bytecode matched on Etherscan.
 
-## 🚀 Importance of Optimization
+## Importance of Optimization
 
 When compiling smart contracts, **optimization** is like recalibrating your bytecode for maximum efficiency.  
-✅ Yes — it's not changing your Solidity logic, but instead, it's improving how your contract behaves at the machine level.
+Yes — it's not changing your Solidity logic, but instead, it's improving how your contract behaves at the machine level.
 
 The compiler will:
 
-- 🔄 **Rearrange instructions** for better execution flow
-- 🧹 **Remove redundant operations** to streamline performance
-- 🧩 **Simplify loops and variables** to reduce computation costs
-- 📦 **Compress storage operations** for cheaper storage
-- 🧬 **Minimize the deployed contract size** to lower gas deployment costs
+- **Rearrange instructions** for better execution flow
+- **Remove redundant operations** to streamline performance
+- **Simplify loops and variables** to reduce computation costs
+- **Compress storage operations** for cheaper storage
+- **Minimize the deployed contract size** to lower gas deployment costs
 
 > **Result:**  
 > Faster transactions, lower gas fees, and a more efficient contract for all users of **LoopTrust Finance**.
@@ -85,7 +85,7 @@ The compiler will:
 
 ---
 
-## 🚀 Usage
+## Usage
 
 1. Connect your wallet (MetaMask, Coinbase Wallet, etc.)
 2. Send ETH using either:
@@ -96,7 +96,7 @@ The compiler will:
 
 ---
 
-## 💼 Future Plans
+## Future Plans
 
 - Add multi-chain support (Polygon, BSC, etc.)
 - Add automatic fee tier adjustments.
