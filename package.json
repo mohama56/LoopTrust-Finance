@@ -1,0 +1,44 @@
+{
+  "name": "looptrust_finance",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@thirdweb-dev/chains": "^0.1.120",
+    "@thirdweb-dev/react": "^4.9.4",
+    "@thirdweb-dev/sdk": "^4.0.99",
+    "ethers": "^6.13.5",
+    "localforage": "^1.10.0",
+    "next": "14.1.0",
+    "react": "^18.3",
+    "react-dom": "^18.3",
+    "thirdweb": "^5.95.2"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "2.0.0",
+    "@nomicfoundation/hardhat-ethers": "3.0.0",
+    "@nomicfoundation/hardhat-network-helpers": "1.0.0",
+    "@nomicfoundation/hardhat-toolbox": "2.0.2",
+    "@nomicfoundation/hardhat-verify": "2.0.0",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "chai": "4.2.0",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.0",
+    "ethereum-waffle": "^4.0.10",
+    "hardhat": "^2.23.0",
+    "hardhat-gas-reporter": "1.0.8",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}
